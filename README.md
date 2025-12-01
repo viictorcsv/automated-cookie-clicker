@@ -31,4 +31,4 @@ Pré-requisitos: Você precisa ter o **Python** e o **Google Chrome** instalados
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/cookie-clicker-bot.git](https://github.com/seu-usuario/cookie-clicker-bot.git)
+   git clone https://github.com/PittViic/automated-cookie-clicker.git
