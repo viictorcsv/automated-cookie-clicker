@@ -8,7 +8,7 @@ O principal objetivo deste projeto foi **treinar e aprimorar habilidades com a b
 
 Este script não é apenas um auto-clicker simples. Ele utiliza técnicas avançadas de Web Scraping para interagir com o jogo de forma inteligente. Em vez de apenas clicar, ele analisa o estado do jogo para comprar as melhores atualizações e construções disponíveis, maximizando a produção de cookies.
 
-### 🛠 Tecnologias Utilizadas
+### Tecnologias Utilizadas
 * **Python 3.x**
 * **Selenium WebDriver:** Para interação e controle do navegador.
 * **Undetected Chromedriver:** Para evitar que o script seja bloqueado por verificações anti-bot (Cloudflare/Human Verification).
